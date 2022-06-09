@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/yaara.dir/PhysicalMemory.cpp.o CMakeFiles/yaara.dir/SimpleTest.cpp.o CMakeFiles/yaara.dir/dan.cpp.o -o yaara 

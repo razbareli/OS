@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g -rdynamic CMakeFiles/test1.dir/Barrier/Barrier.cpp.o CMakeFiles/test1.dir/MapReduceFramework.cpp.o CMakeFiles/test1.dir/test1.cpp.o -o test1 

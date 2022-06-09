@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cs/usr/unixraz/OS/ex2/ex2/demo_jmp.c
+stdio.h
+-
+setjmp.h
+-
+signal.h
+-
+unistd.h
+-
+sys/time.h
+-
+stdbool.h
+-
+

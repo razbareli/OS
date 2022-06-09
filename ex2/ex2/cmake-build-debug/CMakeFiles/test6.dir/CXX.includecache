@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cs/usr/unixraz/OS/ex2/ex2/uthreads.cpp
+uthreads.h
+/cs/usr/unixraz/OS/ex2/ex2/uthreads.h
+signal.h
+-
+sys/time.h
+-
+iostream
+-
+map
+-
+setjmp.h
+-
+deque
+-
+algorithm
+-
+queue
+-
+vector
+-
+
+/cs/usr/unixraz/OS/ex2/ex2/uthreads.h
+

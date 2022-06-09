@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g -rdynamic CMakeFiles/git.dir/from_git.cpp.o CMakeFiles/git.dir/SampleClient/SampleClient.cpp.o -o git 

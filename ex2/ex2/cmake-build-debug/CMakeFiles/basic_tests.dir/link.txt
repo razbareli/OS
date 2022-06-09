@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/basic_tests.dir/uthreads.cpp.o CMakeFiles/basic_tests.dir/tests/basic_test.cpp.o -o basic_tests 

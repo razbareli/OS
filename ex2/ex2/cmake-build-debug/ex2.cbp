@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ex2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test3">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/test3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 test3"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test3/fast">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/test3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 test3/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test44">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/test44" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 test44"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test44/fast">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/test44" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 test44/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex2">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/ex2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex2/fast">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/ex2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jmp">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/jmp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 jmp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jmp/fast">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/jmp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 jmp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test2">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/test2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 test2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test2/fast">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/test2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 test2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jona3">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/jona3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 jona3"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jona3/fast">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/jona3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 jona3/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test1">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/test1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 test1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test1/fast">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/test1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 test1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test6">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/test6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 test6"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test6/fast">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/test6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 test6/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test7">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/test7" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 test7"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test7/fast">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/test7" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 test7/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="itimer">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/itimer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 itimer"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="itimer/fast">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/itimer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 itimer/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="yuval">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/yuval" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 yuval"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="yuval/fast">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/yuval" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 yuval/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jona6">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/jona6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 jona6"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jona6/fast">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/jona6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 jona6/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sigint_handler">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/sigint_handler" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 sigint_handler"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sigint_handler/fast">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/sigint_handler" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 sigint_handler/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jona4">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/jona4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 jona4"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jona4/fast">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/jona4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 jona4/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jona2">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/jona2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 jona2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jona2/fast">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/jona2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 jona2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="yechiel">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/yechiel" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 yechiel"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="yechiel/fast">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/yechiel" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 yechiel/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jona5">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/jona5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 jona5"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jona5/fast">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/jona5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 jona5/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test5">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/test5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 test5"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test5/fast">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/test5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 test5/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="iris">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/iris" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 iris"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="iris/fast">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/iris" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 iris/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jona1">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/jona1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 jona1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="jona1/fast">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/jona1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 jona1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="basic_tests">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/basic_tests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 basic_tests"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="basic_tests/fast">
+				<Option output="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/basic_tests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 basic_tests/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cs/usr/unixraz/OS/ex2/ex2/demo_itimer.c">
+			<Option target="itimer"/>
+		</Unit>
+		<Unit filename="/cs/usr/unixraz/OS/ex2/ex2/demo_jmp.c">
+			<Option target="jmp"/>
+		</Unit>
+		<Unit filename="/cs/usr/unixraz/OS/ex2/ex2/demo_singInt_handler.c">
+			<Option target="sigint_handler"/>
+		</Unit>
+		<Unit filename="/cs/usr/unixraz/OS/ex2/ex2/main.cpp">
+			<Option target="ex2"/>
+		</Unit>
+		<Unit filename="/cs/usr/unixraz/OS/ex2/ex2/tests/basic_test.cpp">
+			<Option target="basic_tests"/>
+		</Unit>
+		<Unit filename="/cs/usr/unixraz/OS/ex2/ex2/tests/iris.cpp">
+			<Option target="iris"/>
+		</Unit>
+		<Unit filename="/cs/usr/unixraz/OS/ex2/ex2/tests/jona1.cpp">
+			<Option target="jona1"/>
+		</Unit>
+		<Unit filename="/cs/usr/unixraz/OS/ex2/ex2/tests/jona2.cpp">
+			<Option target="jona2"/>
+		</Unit>
+		<Unit filename="/cs/usr/unixraz/OS/ex2/ex2/tests/jona3.cpp">
+			<Option target="jona3"/>
+		</Unit>
+		<Unit filename="/cs/usr/unixraz/OS/ex2/ex2/tests/jona4.cpp">
+			<Option target="jona4"/>
+		</Unit>
+		<Unit filename="/cs/usr/unixraz/OS/ex2/ex2/tests/jona5.cpp">
+			<Option target="jona5"/>
+		</Unit>
+		<Unit filename="/cs/usr/unixraz/OS/ex2/ex2/tests/jona6mask_sigvt.cpp">
+			<Option target="jona6"/>
+		</Unit>
+		<Unit filename="/cs/usr/unixraz/OS/ex2/ex2/tests/test1.in.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/cs/usr/unixraz/OS/ex2/ex2/tests/test2.in.cpp">
+			<Option target="test2"/>
+		</Unit>
+		<Unit filename="/cs/usr/unixraz/OS/ex2/ex2/tests/test3.in.cpp">
+			<Option target="test3"/>
+		</Unit>
+		<Unit filename="/cs/usr/unixraz/OS/ex2/ex2/tests/test4.in.cpp">
+			<Option target="test44"/>
+		</Unit>
+		<Unit filename="/cs/usr/unixraz/OS/ex2/ex2/tests/test5_no_out.cpp">
+			<Option target="test5"/>
+		</Unit>
+		<Unit filename="/cs/usr/unixraz/OS/ex2/ex2/tests/test6_no_out.cpp">
+			<Option target="test6"/>
+		</Unit>
+		<Unit filename="/cs/usr/unixraz/OS/ex2/ex2/tests/test7_no_out_different.cpp">
+			<Option target="test7"/>
+		</Unit>
+		<Unit filename="/cs/usr/unixraz/OS/ex2/ex2/tests/test_yuval.cpp">
+			<Option target="yuval"/>
+		</Unit>
+		<Unit filename="/cs/usr/unixraz/OS/ex2/ex2/tests/yechiel.cpp">
+			<Option target="yechiel"/>
+		</Unit>
+		<Unit filename="/cs/usr/unixraz/OS/ex2/ex2/uthreads.cpp">
+			<Option target="test3"/>
+			<Option target="test44"/>
+			<Option target="ex2"/>
+			<Option target="test2"/>
+			<Option target="jona3"/>
+			<Option target="test1"/>
+			<Option target="test6"/>
+			<Option target="test7"/>
+			<Option target="yuval"/>
+			<Option target="jona6"/>
+			<Option target="jona4"/>
+			<Option target="jona2"/>
+			<Option target="yechiel"/>
+			<Option target="jona5"/>
+			<Option target="test5"/>
+			<Option target="iris"/>
+			<Option target="jona1"/>
+			<Option target="basic_tests"/>
+		</Unit>
+		<Unit filename="/cs/usr/unixraz/OS/ex2/ex2/uthreads.h">
+			<Option target="test3"/>
+			<Option target="test44"/>
+			<Option target="ex2"/>
+			<Option target="test2"/>
+			<Option target="jona3"/>
+			<Option target="test1"/>
+			<Option target="test6"/>
+			<Option target="test7"/>
+			<Option target="yuval"/>
+			<Option target="jona6"/>
+			<Option target="jona4"/>
+			<Option target="jona2"/>
+			<Option target="yechiel"/>
+			<Option target="jona5"/>
+			<Option target="test5"/>
+			<Option target="iris"/>
+			<Option target="jona1"/>
+			<Option target="basic_tests"/>
+		</Unit>
+		<Unit filename="/cs/usr/unixraz/OS/ex2/ex2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

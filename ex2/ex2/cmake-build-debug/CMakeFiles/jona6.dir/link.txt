@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/jona6.dir/uthreads.cpp.o CMakeFiles/jona6.dir/tests/jona6mask_sigvt.cpp.o -o jona6 

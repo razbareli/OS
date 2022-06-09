@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cs/usr/unixraz/OS/ex2/ex2/tests/basic_test.cpp
+../uthreads.h
+/cs/usr/unixraz/OS/ex2/ex2/uthreads.h
+stdio.h
+-
+
+/cs/usr/unixraz/OS/ex2/ex2/uthreads.h
+

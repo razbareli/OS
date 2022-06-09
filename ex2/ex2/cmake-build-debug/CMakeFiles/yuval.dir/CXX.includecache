@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cs/usr/unixraz/OS/ex2/ex2/tests/test_yuval.cpp
+iostream
+-
+../uthreads.h
+/cs/usr/unixraz/OS/ex2/ex2/uthreads.h
+unordered_map
+-
+
+/cs/usr/unixraz/OS/ex2/ex2/uthreads.h
+

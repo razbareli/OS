@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/mlc.dir/demo_jmp.c.o -o mlc 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/jona5.dir/uthreads.cpp.o CMakeFiles/jona5.dir/tests/jona5.cpp.o -o jona5 

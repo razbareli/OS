@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/test4.dir/uthreads.cpp.o CMakeFiles/test4.dir/tests/test4.in.cpp.o -o test4 

@@ -1,0 +1,57 @@
+unixraz,maayan.lital
+Raz Bareli (203488747), Maayan Cohen (315436493)
+EX: 2
+
+FILES:
+README - this file
+uthreads.cpp
+Makefile
+
+REMARKS:
+None
+
+ANSWERS:
+
+- 1 -
+Let's say we are running a complex algorithm that does a very large number of mathemathical operation
+(like big matrix multiplication). And let's say that we also have some other small calculations that we want to make
+(like matrix addition). In this case, since there are no system calls, it would be reasonable to choose
+user level threads, where the change between the tasks will be much faster and won't have a large overhead -
+unlike with kernel level threads.
+
+- 2 -
+Advanteges:
+Having multiple processes is more stable, in a way that a process is using its own memory, so if
+one tab craches for some reason - it won't affect the other tabs.
+Also, having multiple processes is more secure, since one process can't communicate with the other
+directly - only with the help of the OS.
+
+Disadvanteges:
+Having multiple processes causes large overhead, since many operations require the OS, as well as
+switching between processes, and thus, we'll need to use trap many times.
+
+- 3 -
+The process that is running in the background is the Shotwell app, and the Shell (and many others).
+When we are typing the "kill pid" command, an HW interruption is generated from the keyboard to the OS.
+Now, the OS translates the "Kill pid" command to a SIGINT signal and sends it to the Shotwell process,
+which handles it by terminating its run.
+
+- 4 -
+Real time is the total time that has passed.
+Virtual time is the time in which the process actually ran on the CPU.
+We'll use real time for an app that needs to display the time on the screen.
+We'll use virtual time for comparing speed performance of different threads.
+
+- 5 -
+These two functions are used to switch between threads.
+To switch between threads we need to:
+- Stop running current thread
+- Save current state of the thread
+- Jump to another thread and continue from where it stopped
+So,
+sigsetjmp saves the current location, CPU state and signal mask.
+siglongjmp goes to the saved location, and restores the state and signal mask
+
+
+
+

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/yuval.dir/uthreads.cpp.o CMakeFiles/yuval.dir/tests/test_yuval.cpp.o -o yuval 

@@ -1,0 +1,27 @@
+/usr/local/APP/jetbrains/clion/2021.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /cs/usr/unixraz/OS/ex4
+CMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cs/usr/unixraz/OS/ex4/cmake-build-debug/tests/googletest-download
+[ 11%] Performing update step for 'googletest'
+From https://github.com/google/googletest
+   e649993a..0320f517  main       -> origin/main
+Previous HEAD position was e649993a gmock-spec-builders: remove the name for an unused parameter.
+HEAD is now at 0320f517 Work around a maybe-uninitialized warning under GCC 12
+[ 22%] No patch step for 'googletest'
+[ 33%] No configure step for 'googletest'
+[ 44%] No build step for 'googletest'
+[ 55%] No install step for 'googletest'
+[ 66%] No test step for 'googletest'
+[ 77%] Completed 'googletest'
+[100%] Built target googletest
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cs/usr/unixraz/OS/ex4/cmake-build-debug

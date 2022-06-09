@@ -1,0 +1,36 @@
+/usr/local/APP/jetbrains/clion/2021.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /cs/usr/unixraz/OS/ex3
+CMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cs/usr/unixraz/OS/ex3/cmake-build-debug/mattanTests/googletest-download
+[ 11%] Performing update step for 'googletest'
+HEAD is now at 8d51dc50 gmock-internal-utils.cc: Avoid implicit conversion from int to char Fixes #3832
+[ 22%] No patch step for 'googletest'
+[ 33%] No configure step for 'googletest'
+[ 44%] No build step for 'googletest'
+[ 55%] No install step for 'googletest'
+[ 66%] No test step for 'googletest'
+[ 77%] Completed 'googletest'
+[100%] Built target googletest
+-- Configuring done
+CMake Error at CMakeLists.txt:41 (add_executable):
+  Cannot find source file:
+
+    from_git.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .h .hh .h++
+  .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .ispc
+
+
+CMake Error at CMakeLists.txt:41 (add_executable):
+  No SOURCES given to target: git
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

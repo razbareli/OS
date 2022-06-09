@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/itimer.dir/demo_itimer.c.o -o itimer 

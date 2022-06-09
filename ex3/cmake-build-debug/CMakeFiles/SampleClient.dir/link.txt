@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g CMakeFiles/SampleClient.dir/SampleClient/SampleClient.cpp.o CMakeFiles/SampleClient.dir/MapReduceFramework.cpp.o CMakeFiles/SampleClient.dir/Barrier/Barrier.cpp.o -o SampleClient 

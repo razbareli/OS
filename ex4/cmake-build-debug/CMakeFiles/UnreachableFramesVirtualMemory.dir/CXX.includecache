@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cs/usr/unixraz/OS/ex4/MemoryConstants.h
+climits
+-
+stdint.h
+-
+
+/cs/usr/unixraz/OS/ex4/PhysicalMemory.h
+MemoryConstants.h
+/cs/usr/unixraz/OS/ex4/MemoryConstants.h
+random
+-
+memory
+-
+sstream
+-
+
+/cs/usr/unixraz/OS/ex4/dan.cpp
+PhysicalMemory.h
+/cs/usr/unixraz/OS/ex4/PhysicalMemory.h
+

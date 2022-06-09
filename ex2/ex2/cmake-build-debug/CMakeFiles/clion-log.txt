@@ -1,0 +1,4 @@
+/usr/local/APP/jetbrains/clion/2021.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /cs/usr/unixraz/OS/ex2/ex2
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cs/usr/unixraz/OS/ex2/ex2/cmake-build-debug

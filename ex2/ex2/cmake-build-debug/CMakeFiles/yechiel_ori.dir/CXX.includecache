@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cs/usr/unixraz/OS/ex2/ex2/tests/yechiel.cpp
+stdio.h
+-
+signal.h
+-
+unistd.h
+-
+../uthreads.h
+/cs/usr/unixraz/OS/ex2/ex2/uthreads.h
+sys/time.h
+-
+cstring
+/cs/usr/unixraz/OS/ex2/ex2/tests/cstring
+complex
+-
+cmath
+/cs/usr/unixraz/OS/ex2/ex2/tests/cmath
+
+/cs/usr/unixraz/OS/ex2/ex2/uthreads.h
+

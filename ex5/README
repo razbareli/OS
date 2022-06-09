@@ -1,0 +1,48 @@
+unixraz,maayan.lital
+Raz Bareli (203488747), Maayan Cohen (315436493)
+EX: 3
+
+FILES:
+README - this file
+Makefile
+
+REMARKS:
+None
+
+ANSWERS:
+
+- 1 -
+Linux PID namespaces are used to control what PID's the process inside a container "sees".
+So, for example, PID namespaces allow containers to provide functionality such as
+suspending the set of processes in the container and moving the container
+to a new host while the processes inside the container maintain the same PID's
+
+- 2 -
+Linux mount namespaces can be used to isolate the filesystem of the host from the container.
+So, mount namespaces mounts a new filesystem inside the container, and by that, the
+container has its own filesystem (with a root directory), and it is unaware of the hosts
+filesystem.
+
+- 3 -
+With cgroups we can control what the container can do. For example:
+Limiting the maximal number of processes, usage of memory & CPU, etc.
+
+- 4 -
+Clone, similar to Fork, creates a new process by duplicating the calling process.
+The new process is referred to as the child process.
+The difference between the two are that in Fork, the execution continues from the
+point of the parent process. However, with Clone, we get more precise
+control over what pieces of execution context are shared between the parent process
+and the child process.
+In addition, Clone receives a function and arguments as arguments, so the code it
+will execute can be different from the parent.
+
+- 5 -
+The chroot command changes the root directory of the process and it's child processes
+
+- 6 -
+The procfs (proc file system) acts as an interface to internal data structures in the kernel.
+It does so by having a hierarchical structure.
+It can be used, for example, to obtain information about the system and to change certain kernel parameters
+at runtime.
+

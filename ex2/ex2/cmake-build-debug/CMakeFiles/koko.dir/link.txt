@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/koko.dir/demo_singInt_handler.c.o -o koko 

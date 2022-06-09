@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/test6.dir/uthreads.cpp.o CMakeFiles/test6.dir/tests/test6_no_out.cpp.o -o test6 

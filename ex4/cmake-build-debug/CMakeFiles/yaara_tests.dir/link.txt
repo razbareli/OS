@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/yaara_tests.dir/PhysicalMemory.cpp.o CMakeFiles/yaara_tests.dir/VirtualMemory.cpp.o CMakeFiles/yaara_tests.dir/YaaraTest.cpp.o -o yaara_tests 

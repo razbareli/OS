@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/yechiel_ori.dir/uthreads_ori.cpp.o CMakeFiles/yechiel_ori.dir/tests/yechiel.cpp.o -o yechiel_ori 

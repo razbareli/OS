@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/jona3.dir/uthreads.cpp.o CMakeFiles/jona3.dir/tests/jona3.cpp.o -o jona3 

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cs/usr/unixraz/OS/ex3/MapReduceClient.h
+vector
+-
+utility
+-
+
+/cs/usr/unixraz/OS/ex3/MapReduceFramework.h
+MapReduceClient.h
+/cs/usr/unixraz/OS/ex3/MapReduceClient.h
+
+/cs/usr/unixraz/OS/ex3/SampleClient/SampleClient.cpp
+../MapReduceFramework.h
+/cs/usr/unixraz/OS/ex3/MapReduceFramework.h
+cstdio
+-
+string
+-
+array
+-
+unistd.h
+-
+
